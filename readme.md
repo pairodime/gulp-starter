@@ -24,3 +24,10 @@ bower install
 This will add all the contributed modules for task runners.
 
 From there - Let's build the internet!
+
+## Post Installation
+Run this command to always look for changes and process your gulp processes.
+
+```
+gulp watch
+```
