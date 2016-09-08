@@ -1,13 +1,13 @@
 //get gulp node package
-var gulp 			   = require('gulp'),
-	uglify 			   = require('gulp-uglify'),
-	uglifycss 	 	 = require('gulp-uglifycss'),
-	autoprefixer 	 = require('gulp-autoprefixer'),
-	sass 			     = require('gulp-sass'),
-	sourcemaps		 = require('gulp-sourcemaps'),
-	imagemin 		   = require('gulp-imagemin'),
-	pngquant 		   = require('imagemin-pngquant'),
-  livereload     = require('gulp-livereload');
+var gulp			= require('gulp'),
+	uglify 			= require('gulp-uglify'),
+	uglifycss 		= require('gulp-uglifycss'),
+	autoprefixer 	 	= require('gulp-autoprefixer'),
+	sass 			= require('gulp-sass'),
+	sourcemaps		= require('gulp-sourcemaps'),
+	imagemin 		= require('gulp-imagemin'),
+	pngquant 		= require('imagemin-pngquant'),
+  livereload     		= require('gulp-livereload');
 
 
 gulp.task('js', function() {
