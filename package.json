@@ -1,0 +1,31 @@
+{
+  "name": "gulp-starter",
+  "version": "1.0.1",
+  "description": "Great set of Web Development Tools as a starting point.",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp": "^3.9.0",
+    "gulp-uglify": "^1.4.2",
+    "gulp-uglifycss": "^1.0.4",
+    "gulp-imagemin": "^2.3.0",
+    "imagemin-pngquant": "^4.2.0",
+    "gulp-sass": "^2.0.4"
+  },
+  "devDependencies": {
+    "breakpoint-sass": "^2.6.1",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.4.2",
+    "gulp-uglifycss": "^1.0.4",
+    "imagemin-pngquant": "^4.2.0",
+    "node-normalize-scss": "^1.0.3",
+    "susy": "^2.2.6"
+  },
+  "author": "PAIRODIME",
+  "license": "MIT"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "gulp-starter",
+  "version": "1.0",
+  "authors": [
+    "PAIRODIME"
+  ],
+  "description": "Great set of Front End tools for our web development",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "dependencies": {
+    "fastclick": "~1.0.6",
+    "jquery": "~2.1.4",
+    "modernizr": "http://modernizr.com/download/?-animation-audio-backgroundcliptext-backgroundsize-canvas-cssanimations-csscalc-csstransforms3d-csstransitions-filereader-flexbox-fontface-fullscreen-geolocation-hashchange-inlinesvg-json-localstorage-svg-svgclippaths-video-shiv.zip",
+    "fontawesome": "~4.4.0"
+  }
+}
